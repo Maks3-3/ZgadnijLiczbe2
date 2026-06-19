@@ -5,7 +5,6 @@
 #include "HallOfFame.h"
 #include "Game.h"
 
-
 class GameScreen {
 private:
     const ILanguage& language;
