@@ -15,7 +15,6 @@ private:
 
 public:
     HallOfFame();
-
     
     bool addEntry(const ScoreEntry& entry);
 
