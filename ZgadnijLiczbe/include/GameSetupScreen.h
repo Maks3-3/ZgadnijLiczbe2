@@ -4,7 +4,6 @@
 #include "Settings.h"
 #include "Game.h"
 
-
 class GameSetupScreen {
 private:
     const Settings& settings;
