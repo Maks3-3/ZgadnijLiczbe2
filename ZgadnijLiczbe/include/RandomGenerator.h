@@ -1,6 +1,5 @@
 #pragma once
 
-
 class RandomGenerator {
 public:
     RandomGenerator() = delete;
