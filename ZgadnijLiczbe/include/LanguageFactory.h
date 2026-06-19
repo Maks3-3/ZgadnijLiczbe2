@@ -4,7 +4,6 @@
 #include "ILanguage.h"
 #include "LanguageCode.h"
 
-
 class LanguageFactory {
 public:
     LanguageFactory() = delete;
