@@ -3,8 +3,6 @@
 #include "ILanguage.h"
 #include "MenuChoice.h"
 
-
-
 class WelcomeScreen {
 private:
     const ILanguage& language;
