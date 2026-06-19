@@ -2,7 +2,6 @@
 
 #include "ILanguage.h"
 
-
 class PolishLanguage : public ILanguage {
 public:
     LanguageCode getCode() const override;
